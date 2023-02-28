@@ -1,0 +1,9 @@
+
+重点是：数组有序
+
+
+
+实际上还有几道题也是用到了这样的 缩减搜索空间 的思想：
+
+11. Container With Most Water
+240. Search a 2D Matrix II
