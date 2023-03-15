@@ -10,6 +10,9 @@
  * @param {string} p
  * @return {boolean}
  */
+/**
+ * copy
+ */
 var isMatch = function(s, p) {
     if (s == null || p == null) return false;
     
